@@ -1,0 +1,6 @@
+name: Paintball
+version: ${project.version}
+main: me.zacherycoleman.paintball.Main
+api-version: 1.13
+authors: [Zachery Coleman]
+description: Paintballs, but in minecraft
